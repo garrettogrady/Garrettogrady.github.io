@@ -1,7 +1,7 @@
 # Site
-title:              Garrett O'Grady
-bio:                "Garrett's Portfolio and Blogs"
-description:        "CS Student | Full Stack Dev | IOS Dev | Entrepreneur"
+title:               Garrett's Portfolio and Blogs
+bio:                "CS Student | Full Stack Dev | IOS Dev | Entrepreneur"
+description:        "Computer Science Student at the University of Dayton | Java, Rails, Swift, JS developer "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
