@@ -8,7 +8,7 @@ comments: false
 {% capture images %}
    /assets/img/garrett_portrait.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=1 %}
+{% include gallery images=images cols=1 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
