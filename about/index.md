@@ -7,11 +7,11 @@ comments: false
 ---
 
 ## Experience
-* Software Development Intern - AgentBright (Remote, 3 years)
-* Software Engineering Intern - Trading Technologies (Chicago, IL - Summer 2016)
-* Application Development Intern - Littlelines LLC (Dayton, OH - Part-time during the school year)
-* Co-Founder Web/App Developer - Heyogrady LLC (Remote - 2 Years)
-* Application Development Intern - Fusionary (Grand Rapids, MI - Summer 2015)
+* Software Development Intern - [AgentBright](http://agentbright.com) (Remote, 3 years)
+* Software Engineering Intern - [Trading Technologies](http://tradingtechnologies.com) (Chicago, IL - Summer 2016)
+* Application Development Intern - [Littlelines LLC](http://littlelines.com) (Dayton, OH - Part-time during the school year)
+* Co-Founder Web/App Developer - [Heyogrady LLC](http://heyogrady.com) (Remote - 2 Years)
+* Application Development Intern - [Fusionary](http://fusionary.com) (Grand Rapids, MI - Summer 2015)
 * Lead SharePoint Developer - University of Dayton Advancement (Dayton, OH - Spring 205)
 
 ## Preview
