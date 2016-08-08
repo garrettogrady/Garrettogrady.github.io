@@ -1,24 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Garrett
+tags: [about, me, school, code]
+date: 2016-08-08
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Experience
+* Software Development Intern - AgentBright (Remote, 3 years)
+* Software Engineering Intern - Trading Technologies (Chicago, IL - Summer 2016)
+* Application Development Intern - Littlelines LLC (Dayton, OH - Part-time during the school year)
+* Co-Founder Web/App Developer - Heyogrady LLC (Remote - 2 Years)
+* Application Development Intern - Fusionary (Grand Rapids, MI - Summer 2015)
+* Lead SharePoint Developer - University of Dayton Advancement (Dayton, OH - Spring 205)
 
 ## Preview
 
