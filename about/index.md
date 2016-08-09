@@ -12,12 +12,6 @@ comments: false
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
-
-{% capture images %}
-   /assets/img/garrett_portrait.png
-{% endcapture %}
-{% include gallery images=images cols=1 %}
-
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Experience
