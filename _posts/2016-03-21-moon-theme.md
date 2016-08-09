@@ -118,9 +118,6 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 - title: Projects
   url: /projects/
 
-- title: About
-  url: /about/
-
 - title: Moon
   url: http://taylantatli.me/Moon
 {% endhighlight %}
