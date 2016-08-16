@@ -5,10 +5,8 @@ tags: [about, me, school, code]
 date: 2016-08-08
 comments: false
 ---
-## What I've Learned
-
 {% capture images %}
-   /assets/img/courses.png
+   /assets/img/garrett_portrait.png
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
