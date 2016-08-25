@@ -18,6 +18,11 @@ comments: false
 {% include gallery images=images cols=1 %}
 
 ## Experience
+{% capture images %}
+   /assets/img/work.png
+{% endcapture %}
+{% include gallery images=images cols=1 %}
+
 * Software Development Intern - [AgentBright](http://agentbright.com) (Remote, 3 years)
 * Software Engineering Intern - [Trading Technologies](http://tradingtechnologies.com) (Chicago, IL - Summer 2016)
 * Application Development Intern - [Littlelines LLC](http://littlelines.com) (Dayton, OH - Part-time during the school year)
