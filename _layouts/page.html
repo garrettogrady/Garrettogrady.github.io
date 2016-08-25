@@ -16,37 +16,10 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <!-- Header -->
-                    <header class="header flex" role="banner">
-                        <div class="container animated fadeIn">
-                            <div class="row">
-                                    <a href="{{ site.url }}">
-                                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
-                                    </a>
-                                    <h3 class="title">
-                                        <a class="zoombtn" href="{{ site.url }}">
-                                            <p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-                                        </a>
-                                    </h3>
-                                    <hr class="hr-line">
-                                    <h3 class="title">
-                                        <a href="{{ site.url }}">
-                                            <p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-                                        </a>
-                                    </h3>
-                                    {% include social-links.html %}
-                                  <hr class="hr-line">
-                                  <h3 class="title">
-                                         <a class="btn zoombtn" href="{{ site.url }}/posts">
-                                         Posts
-                                         </a>
-                                         <a class="btn zoombtn" href="{{ site.url }}/projects">
-                                         Projects
-                                         </a>
-                                 </h3>
-                            </div>
-                        </div>
-                    </header>
+                    <h1>{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}">
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
                 </div>
                 {{ content }}
             </div>
