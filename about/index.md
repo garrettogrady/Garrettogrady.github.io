@@ -17,8 +17,6 @@ comments: false
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
 ## Experience
 * Software Development Intern - [AgentBright](http://agentbright.com) (Remote, 3 years)
 * Software Engineering Intern - [Trading Technologies](http://tradingtechnologies.com) (Chicago, IL - Summer 2016)
@@ -27,8 +25,8 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 * Application Development Intern - [Fusionary](http://fusionary.com) (Grand Rapids, MI - Summer 2015)
 * Lead SharePoint Developer - [University of Dayton Advancement](https://www.udayton.edu/advancement/) (Dayton, OH - Spring 205)
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+#Activities
+* Founder of the Unviversity of Dayton Software Club
+* Teaching Assistant for Intro to Programming 
+* Attending programming conferences (CodeConf, 360iDev)
+* Attending Meetups (Rails, iOS)
