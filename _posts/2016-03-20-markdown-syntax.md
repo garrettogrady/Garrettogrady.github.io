@@ -14,7 +14,7 @@ comments: true
 
 # Summer at Trading Technologies
 
-![Trading tech Interns](/assets/img/garrett_portrait.png)
+![Trading tech Interns](/assets/img/tradingtech_interns.png)
 
 Is it really almost September already? It feels like school just got out for the summer but I am already back.. This summer was one of my busiest. It started with a 2 week shadowing of a venture capitalist where I got to sit in on board meetings and help do due-dillegence on companies. After that I had a brief 2 weeks before the big move to Chicago where I would spend my summer interning at Trading Technologies. 
 
