@@ -18,8 +18,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 # Heading 1
 
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
+![Trading tech Interns](/assets/img/garrett_portrait.png)
 
 Is it really almost September already? It feels like school just got out for the summer but I am already back.. This summer was one of my busiest. It started with a 2 week shadowing of a venture capitalist where I got to sit in on board meetings and help do due-dillegence on companies. After that I had a brief 2 weeks before the big move to Chicago where I would spend my summer interning at Trading Technologies. 
 
