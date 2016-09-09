@@ -12,7 +12,7 @@ comments: true
 
 ![SGH Homepage](/assets/img/SGH_header.png)    
     
-<center><b>Available at </b>http://scottgregorydesignerhomes.com</center>
+<center><b>Available at </b><a href="http://scottgregorydesignerhomes.com">http://scottgregorydesignerhomes.com</a></center>
 
 ## Preview
 
