@@ -1,19 +1,16 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Scott Gregory Designer Homes"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Website for a family friend's construction company"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- project 
+- website
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Moon Homepage](/assets/img/SGH_header.png)    
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
