@@ -22,8 +22,7 @@ When I first started, I did not even know what a Future or an Option contract wa
 
 The team was very unique, it made up of 4 developers, 1 manager, 1 project manager, 2 product managers, 2 testers and 3 interns including myself. Unfortunately we were not able to sit on the same floor as them which caused a lot of problem when we needed help, but it was nice to get up and walk up to them. It also helped us as the interns work problems out more before going to ask for help. 
 
--![Smithsonian Image](/assets/img/trading-technologies-office.jpg)
- -{: .image-right}
+-![Office](/assets/img/trading-technologies-office.jpg)
 
 About mid-summer I picked up an issue that I thought was going to be a small library change. It turned out to be a complete colorpicker plugin swap, which does not seem that bad. However what I and the product managers did not realize was how much custom code was written on top of the old colorpicker. It was a hard issue that required a lot of work and determination. At times I felt like I was working on a valueless feature. It was at that time that the classic intern ‘Imposture Syndrome’ was kicking in. I was not feeling as hot about the internship as I had thought. Then I picked up a big issue that was sitting in the backlog for a while that no one wanted to take on. So I assigned myself and got to work. It turns out the issue was something important that customers had been asking for, for a while. It was great because I got to work with the backend team and I got to pair with my manager a lot. It was a challenging issue and it helped me learn a lot about myself. I learned that I am someone who is motivated by working on issues of value to the application and company. I was much more motivated to work on the issue that customers were waiting for. It made me feel needed!
 
