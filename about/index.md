@@ -10,7 +10,8 @@ comments: false
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
-[Resume]({{ site.url }}/assets/resume.pdf)
+## Resume 
+[Garrett's Resume]({{ site.url }}/assets/resume.pdf)
 
 ## What I've Learned
 
