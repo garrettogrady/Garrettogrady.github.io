@@ -35,3 +35,8 @@ comments: false
 * Teaching Assistant for Intro to Programming 
 * Attending programming conferences (CodeConf, 360iDev)
 * Attending Meetups (Rails, iOS)
+
+
+## Resume
+
+[Resume]({{ site.url }}/assets/resume.pdf)
