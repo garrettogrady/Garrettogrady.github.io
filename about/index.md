@@ -10,6 +10,8 @@ comments: false
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
+[Resume]({{ site.url }}/assets/resume.pdf)
+
 ## What I've Learned
 
 {% capture images %}
@@ -36,7 +38,3 @@ comments: false
 * Attending programming conferences (CodeConf, 360iDev)
 * Attending Meetups (Rails, iOS)
 
-
-## Resume
-
-[Resume]({{ site.url }}/assets/resume.pdf)
