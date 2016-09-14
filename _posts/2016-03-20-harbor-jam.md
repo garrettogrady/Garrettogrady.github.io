@@ -1,17 +1,50 @@
 ---
 layout: post
-title:  "Harbor Jam"
+title:  "App Store Apps"
 date:   2016-04-06
-excerpt: "An App Built With Swift on The App Store"
+excerpt: "7 Apps on the App Store"
 project: true
 tag:
 - project 
 - website
 comments: false
 ---
+![SGH Homepage](/assets/img/fusionary_example.png)    
+# Harambe's Journey to Heaven
+A fun tribute game made for Harambe
+<center><a href="https://itunes.apple.com/us/app/harambes-journey-to-heaven/id1147058140?ls=1&mt=8">Available on the App Store</a></center>
 
 ![SGH Homepage](/assets/img/fusionary_example.png)    
-    
-<center><b>Available at </b><a href="http://www.agentbright.com">http://agentbright.com</a></center>
+# Trump Attack
+A game made in Swift to get younger people out to vote
+<center><a href="https://itunes.apple.com/us/app/trump-attack/id1088463893?ls=1&mt=8">Available on the App Store</a></center>
 
-For the past 3 years I have been working on this appplication. I have gotten to learn Ruby/Rails very well through learning on the job. It was built in Rails with Angular JS. I have gotten experience managing multi-national programmers while writing code and tests.
+![SGH Homepage](/assets/img/fusionary_example.png)    
+# HillarEvaders
+A game made in Swift to get younger people out to vote
+<center><a href="https://itunes.apple.com/us/app/hillarevaders/id1136953724?ls=1&mt=8">Available on the App Store</a></center>
+
+![SGH Homepage](/assets/img/fusionary_example.png)    
+# Harbor Jam
+A puzze game made in Swift
+<center><a href="https://itunes.apple.com/us/app/harbor-jam/id1014234744?ls=1&mt=8">Available on the App Store</a></center>
+
+![SGH Homepage](/assets/img/fusionary_example.png)    
+# Rudy Flyer's Escape From Xavier
+A aracde game to represent my school and their rival
+<center><a href="https://itunes.apple.com/us/app/rudy-flyers-escape-from-xavier/id1004605096?ls=1&mt=8">Available on the App Store</a></center>
+
+![SGH Homepage](/assets/img/fusionary_example.png)    
+# Sparty Escape From Ann Arbor
+A aracde game to represent Michigan State and their rival UofM
+<center><a href="https://itunes.apple.com/us/app/sparty-escape-from-ann-arbor/id1028208385?ls=1&mt=8">Available on the App Store</a></center>
+
+![SGH Homepage](/assets/img/fusionary_example.png)    
+# Secure Browsing
+A swift app Made with a UIWebView
+<center><a href="https://itunes.apple.com/us/app/secure-browsing/id982336757?ls=1&mt=8">Available on the App Store</a></center>
+
+![SGH Homepage](/assets/img/fusionary_example.png)    
+# Swimmy Froggy
+My first app on the App Store built in Swift
+<center><a href="https://itunes.apple.com/us/app/swimmy-froggy/id959782804?ls=1&mt=8">Available on the App Store</a></center>
