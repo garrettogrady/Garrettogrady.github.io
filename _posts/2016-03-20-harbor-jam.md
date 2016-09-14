@@ -9,7 +9,7 @@ tag:
 - website
 comments: false
 ---
-![SGH Homepage](/assets/img/harambe.png)    
+![SGH Homepage](/assets/img/harambe-2.png)    
 # Harambe's Journey to Heaven
 A fun tribute game made for Harambe
 <center><a href="https://itunes.apple.com/us/app/harambes-journey-to-heaven/id1147058140?ls=1&mt=8">Available on the App Store</a></center>
