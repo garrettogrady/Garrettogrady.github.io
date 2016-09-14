@@ -10,6 +10,6 @@ tag:
 comments: false
 ---
 
-![SGH Homepage](/assets/img/AB.png)    
+![SGH Homepage](/assets/img/macbook-ipad-iphone-graphic-for-web-2.png)    
     
 <center><b>Available at </b><a href="http://www.agentbright.com">http://agentbright.com</a></center>
