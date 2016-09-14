@@ -9,12 +9,12 @@ tag:
 - website
 comments: false
 ---
-![SGH Homepage](/assets/img/harambe.png)    
+![SGH Homepage](/assets/img/harambe.png =250x)    
 # Harambe's Journey to Heaven
 A fun tribute game made for Harambe
 <center><a href="https://itunes.apple.com/us/app/harambes-journey-to-heaven/id1147058140?ls=1&mt=8">Available on the App Store</a></center>
 
-![SGH Homepage](/assets/img/trump.png)    
+![SGH Homepage](/assets/img/trump.png =250x)    
 # Trump Attack
 A game made in Swift to get younger people out to vote
 <center><a href="https://itunes.apple.com/us/app/trump-attack/id1088463893?ls=1&mt=8">Available on the App Store</a></center>
