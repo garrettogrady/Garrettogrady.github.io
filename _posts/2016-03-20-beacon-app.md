@@ -33,3 +33,4 @@ With data being pulled from the API I was free to start making the frontend. I c
     <img src="/img/assets/img/beacon-screenshot1.png"></a>
     <img src="/img/assets/img/beacon-screenshot2.png"></a>
 </figure>
+{% endhighlight %}
