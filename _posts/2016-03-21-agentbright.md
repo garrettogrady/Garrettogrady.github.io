@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AgentBright"
-date:   2016-04-06
+date:   2016-05-06
 excerpt: "CRM application built in Rails"
 project: true
 tag:
