@@ -28,4 +28,5 @@ With the help of one of the senior JS developers, we created a Node.JS applicati
 
 ## Step Four: Creating the front end of the app
 With data being pulled from the API I was free to start making the frontend. I created a table view that pulled each users location and displayed where they were in the office. I then added segues to get more information on people and see where they had been. The third set of segues led to clicking on a room and seeing who was currently there and who had been there.
-![Beacon Screenshot](/assets/img/beacon-screenshot1.png) ![Beacon Screenshot](/assets/img/beacon-screenshot2.png) 
+:-------------------------:|:-------------------------:
+![Beacon Screenshot](/assets/img/beacon-screenshot1.png)  |  ![Beacon Screenshot](/assets/img/beacon-screenshot2.png)
