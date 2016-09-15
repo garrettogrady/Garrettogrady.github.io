@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "App Store Apps"
+title:  "Beaconator App"
 date:   2016-08-06
-excerpt: "7 Apps on the App Store"
+excerpt: "Swift app made to interact with iBeacons and a Node.JS API"
 project: true
 tag:
 - project 
-- website
+- app
+- swift
 comments: false
 ---
 # Beaconator App

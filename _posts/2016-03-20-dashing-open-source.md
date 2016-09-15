@@ -6,7 +6,7 @@ excerpt: "A widget for Campaign Monitor"
 project: true
 tag:
 - project 
-- website
+- ruby
 comments: false
 ---
 

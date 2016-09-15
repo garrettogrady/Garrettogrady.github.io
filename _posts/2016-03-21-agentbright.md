@@ -6,7 +6,8 @@ excerpt: "CRM application built in Rails"
 project: true
 tag:
 - project 
-- website
+- ruby
+- rails
 comments: false
 ---
 
