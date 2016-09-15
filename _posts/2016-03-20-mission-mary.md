@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Internet of Things App"
-date:   2016-08-06
+date:   2016-07-06
 excerpt: "App for the Mission of Mary Urban Farms to display sensor data"
 project: true
 tag:
