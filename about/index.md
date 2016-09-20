@@ -35,7 +35,7 @@ comments: false
 
 ## What I know
 {% capture images %}
-   /assets/img/what-i-know-1.png
+   /assets/img/what-i-know.png
    /assets/img/what-i-know-2.png
 {% endcapture %}
 {% include gallery images=images cols=1 %}
