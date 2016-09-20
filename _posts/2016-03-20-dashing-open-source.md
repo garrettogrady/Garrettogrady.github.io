@@ -11,7 +11,7 @@ comments: false
 ---
 
 # dashing-CampaignMonitor
-### [GitHub Repo](https://github.com/garrettogrady/BeaconApp)
+## [GitHub Repo](https://github.com/garrettogrady/BeaconApp)
 Open source Campaign Monitor widget for the Dashing framework using the [Campaign Monitor Ruby API](http://campaignmonitor.github.io/createsend-ruby/).
  <br>
 ![](https://raw.githubusercontent.com/Garrettogrady/dashing-CampaignMonitor/master/Screen%20Shot%202016-03-31%20at%2010.26.07%20PM.png)
