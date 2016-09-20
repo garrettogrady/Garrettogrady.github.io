@@ -11,6 +11,7 @@ tag:
 comments: false
 ---
 # Beaconator App
+* GitHub Repo [Beacon App](https://github.com/garrettogrady/BeaconApp)
 ![Beacon Icon](/assets/img/beacon-app-icon.png)    
 
 This was an app I built for Fusionary during my internship there in the summer of 2015. They had a client approach them about a way to track which employees came to meetings and when they arrived at the office and left at night. It seemed a bit big-brother ish to me but nonetheless a sweet app! I got to work playing with the Estimote SDK for iBeacons since we have 6 iBeacons. 
