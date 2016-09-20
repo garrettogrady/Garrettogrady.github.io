@@ -33,6 +33,13 @@ comments: false
 * Application Development Intern - [Fusionary](http://fusionary.com) (Grand Rapids, MI - Summer 2015)
 * Lead SharePoint Developer - [University of Dayton Advancement](https://www.udayton.edu/advancement/) (Dayton, OH - Spring 205)
 
+## What I know
+{% capture images %}
+   /assets/img/what-i-know-1.png
+   /assets/img/what-i-know-2.png
+{% endcapture %}
+{% include gallery images=images cols=1 %}
+
 ## Activities
 * Founder of the Unviversity of Dayton Software Club
 * Teaching Assistant for Intro to Programming 
