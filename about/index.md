@@ -26,10 +26,11 @@ comments: false
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
+* Software Engineering Intern - [RTI] (http://rti.com) (Sunnyvale, CA - Summer 2017)
 * Software Development Intern - [AgentBright](http://agentbright.com) (Remote, 3 years)
 * Co-Founder Web/App Developer - [Heyogrady LLC](http://heyogrady.com) (Remote - 2 Years)
 * Application Development Intern - [Littlelines LLC](http://littlelines.com) (Dayton, OH - Part-time during the school year)
-* Software Engineering Intern - [Trading Technologies](http://tradingtechnologies.com) (Chicago, IL - Summer 2016)
+* Software Engineering Intern - [Trading Technologies](http://tradingtechnologies.com) (Chicago, IL - Summer 2016 - Fall 2016)
 * Application Development Intern - [Fusionary](http://fusionary.com) (Grand Rapids, MI - Summer 2015)
 * Lead SharePoint Developer - [University of Dayton Advancement](https://www.udayton.edu/advancement/) (Dayton, OH - Spring 205)
 
