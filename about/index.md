@@ -42,6 +42,7 @@ comments: false
 {% include gallery images=images cols=1 %}
 
 ## Activities
+* LinkedIn Intern Hackathon Finalist
 * Founder of the Unviversity of Dayton Software Club
 * Teaching Assistant for Intro to Programming 
 * Attending programming conferences (CodeConf, 360iDev)
